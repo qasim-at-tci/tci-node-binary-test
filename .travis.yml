@@ -9,4 +9,4 @@ before_script:
   - npm i node-gyp -g
 script:
   - npm ci
-  - node hello.js # prints 'world'
+  - node hello.js # prints "world"
