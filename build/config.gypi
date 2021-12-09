@@ -342,6 +342,16 @@
     "want_separate_host_toolset": 0,
     "xcode_version": "11.0",
     "nodedir": "/Users/qasim/Library/Caches/node-gyp/16.13.1",
-    "standalone_static_library": 1
+    "standalone_static_library": 1,
+    "metrics_registry": "https://registry.npmjs.org/",
+    "global_prefix": "/Users/qasim/.nvm/versions/node/v16.13.1",
+    "local_prefix": "/Users/qasim/Documents/tci-node-binary-test",
+    "globalconfig": "/Users/qasim/.nvm/versions/node/v16.13.1/etc/npmrc",
+    "userconfig": "/Users/qasim/.npmrc",
+    "init_module": "/Users/qasim/.npm-init.js",
+    "node_gyp": "/Users/qasim/.nvm/versions/node/v16.13.1/lib/node_modules/npm/node_modules/node-gyp/bin/node-gyp.js",
+    "cache": "/Users/qasim/.npm",
+    "user_agent": "npm/8.1.2 node/v16.13.1 darwin x64 workspaces/false",
+    "prefix": "/Users/qasim/.nvm/versions/node/v16.13.1"
   }
 }
