@@ -1,8 +1,8 @@
 language: node_js
 
 node_js:
-  - 14
-  - 16
+  - "14"
+  - "lts/*"
 os: osx
 osx_image: xcode13.1
 install: skip
