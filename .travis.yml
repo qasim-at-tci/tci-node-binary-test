@@ -9,4 +9,5 @@ install: skip
 before_script:
   - npm i node-gyp -g
 script:
+  - npm ci
   - node hello.js
