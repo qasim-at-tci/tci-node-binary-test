@@ -341,7 +341,7 @@
     "v8_use_siphash": 1,
     "want_separate_host_toolset": 0,
     "xcode_version": "11.0",
-    "nodedir": "/Users/qasim/Library/Caches/node-gyp/16.13.0",
+    "nodedir": "/Users/qasim/Library/Caches/node-gyp/16.13.1",
     "standalone_static_library": 1
   }
 }

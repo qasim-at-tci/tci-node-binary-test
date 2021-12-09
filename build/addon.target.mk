@@ -50,13 +50,13 @@ CFLAGS_OBJC_Debug :=
 CFLAGS_OBJCC_Debug :=
 
 INCS_Debug := \
-	-I/Users/qasim/Library/Caches/node-gyp/16.13.0/include/node \
-	-I/Users/qasim/Library/Caches/node-gyp/16.13.0/src \
-	-I/Users/qasim/Library/Caches/node-gyp/16.13.0/deps/openssl/config \
-	-I/Users/qasim/Library/Caches/node-gyp/16.13.0/deps/openssl/openssl/include \
-	-I/Users/qasim/Library/Caches/node-gyp/16.13.0/deps/uv/include \
-	-I/Users/qasim/Library/Caches/node-gyp/16.13.0/deps/zlib \
-	-I/Users/qasim/Library/Caches/node-gyp/16.13.0/deps/v8/include
+	-I/Users/qasim/Library/Caches/node-gyp/16.13.1/include/node \
+	-I/Users/qasim/Library/Caches/node-gyp/16.13.1/src \
+	-I/Users/qasim/Library/Caches/node-gyp/16.13.1/deps/openssl/config \
+	-I/Users/qasim/Library/Caches/node-gyp/16.13.1/deps/openssl/openssl/include \
+	-I/Users/qasim/Library/Caches/node-gyp/16.13.1/deps/uv/include \
+	-I/Users/qasim/Library/Caches/node-gyp/16.13.1/deps/zlib \
+	-I/Users/qasim/Library/Caches/node-gyp/16.13.1/deps/v8/include
 
 DEFS_Release := \
 	'-DNODE_GYP_MODULE_NAME=addon' \
@@ -103,13 +103,13 @@ CFLAGS_OBJC_Release :=
 CFLAGS_OBJCC_Release :=
 
 INCS_Release := \
-	-I/Users/qasim/Library/Caches/node-gyp/16.13.0/include/node \
-	-I/Users/qasim/Library/Caches/node-gyp/16.13.0/src \
-	-I/Users/qasim/Library/Caches/node-gyp/16.13.0/deps/openssl/config \
-	-I/Users/qasim/Library/Caches/node-gyp/16.13.0/deps/openssl/openssl/include \
-	-I/Users/qasim/Library/Caches/node-gyp/16.13.0/deps/uv/include \
-	-I/Users/qasim/Library/Caches/node-gyp/16.13.0/deps/zlib \
-	-I/Users/qasim/Library/Caches/node-gyp/16.13.0/deps/v8/include
+	-I/Users/qasim/Library/Caches/node-gyp/16.13.1/include/node \
+	-I/Users/qasim/Library/Caches/node-gyp/16.13.1/src \
+	-I/Users/qasim/Library/Caches/node-gyp/16.13.1/deps/openssl/config \
+	-I/Users/qasim/Library/Caches/node-gyp/16.13.1/deps/openssl/openssl/include \
+	-I/Users/qasim/Library/Caches/node-gyp/16.13.1/deps/uv/include \
+	-I/Users/qasim/Library/Caches/node-gyp/16.13.1/deps/zlib \
+	-I/Users/qasim/Library/Caches/node-gyp/16.13.1/deps/v8/include
 
 OBJS := \
 	$(obj).target/$(TARGET)/hello.o
