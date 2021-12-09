@@ -5,5 +5,8 @@ node_js:
   - 16
 os: osx
 osx_image: xcode13.1
+install: skip
+before_script:
+  - npm i node-gyp -g
 script:
   - node hello.js
