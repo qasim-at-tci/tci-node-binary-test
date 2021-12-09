@@ -6,9 +6,5 @@ node_js:
   - 14
   - 16
 
-install:
-# ensure source install works
-  - npm install
-
 script:
   - node hello.js
